@@ -1,6 +1,8 @@
 # cc_block_hold_invehicle (FiveM)
 ระบบป้องกันผู้เล่นอุ้มแล้วขึ้นรถ หากมีคนอุ้มแล้วขึ้นรถจะโดนเตะลงจากรถทันที สามารถกำหนดอาชีพที่สามารถอุ้มแล้วขึ้นรถได้
 
+<img src="https://cdn.discordapp.com/attachments/1021921777011666984/1021940173656838144/unknown.png"/>
+
 ### จำเป็นต้องมี xzero_hold
 
 ### Discord : [discord.gg/K7PDe2jfpW](https://discord.gg/K7PDe2jfpW)
