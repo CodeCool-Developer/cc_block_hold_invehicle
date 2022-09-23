@@ -20,13 +20,3 @@ Citizen.CreateThread(function()
         end
     end)
 end)
-
-function ArrayIsInOne(list, search)
-    local text = search:lower()
-    for k, v in ipairs(list) do
-        if v:lower() == text:lower() then
-            return true
-        end
-    end
-    return false
-end
