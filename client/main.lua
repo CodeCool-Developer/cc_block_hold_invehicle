@@ -16,7 +16,7 @@ Citizen.CreateThread(function()
                     ClearPedTasksImmediately(GetPlayerPed(-1))
                 end
             end
-            Citizen.Wait(1000)       --TODO ตั้งค่าหน่วยเวลาตามใจชอบได้เลย
+            Citizen.Wait(1000)       --TODO ตั้งค่าหน่วงเวลาตามใจชอบได้เลย
         end
     end)
 end)
